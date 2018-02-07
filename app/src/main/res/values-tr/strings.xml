@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kahve Sipariş</string>
+    <string name="thankYou">Siparişiniz için teşekkür ederiz</string>
+    <string name="toppings">Eklemeler</string>
+</resources>
